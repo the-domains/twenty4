@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[Twenty4]]></title>
         <description><![CDATA[Twenty4]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/twenty4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 15:07:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 15:08:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/twenty4/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined74b7bae5-ca4d-43cc-8fa6-02f5072422a7/index.html</link>
+            <link>https://thegrid.ai/twenty4/74b7bae5-ca4d-43cc-8fa6-02f5072422a7/index.html</link>
             <guid isPermaLink="false">74b7bae5-ca4d-43cc-8fa6-02f5072422a7</guid>
-            <pubDate>Mon, 19 Oct 2015 15:06:48 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2015 15:07:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
