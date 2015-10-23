@@ -1,23 +1,13 @@
-name: null
-favicon: null
-layout_spectrum: 0.029868789948523045
-typography_spectrum: 0.26849641115404665
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors: []
   brandStrength: 0.9669624334201217
   lightness: 0.2530080855358392
-  saturation: 0.2917647974099964
   rhythmicContrast: 0.5143709175754339
+  saturation: 0.2917647974099964
+cta: {}
+layout_spectrum: 0.231981
+name: Twenty4
+opengraph: {}
 purpose: []
+typography_spectrum: 0.26849641115404665
