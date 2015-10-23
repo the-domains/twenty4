@@ -1,0 +1,36 @@
+---
+author: []
+related: []
+publisher:
+  url: 'http://www.motorcyclistonline.com'
+  name: Motorcyclist
+  favicon: 'http://www.motorcyclistonline.com/sites/motorcyclistonline.com/files/favicon.ico'
+  domain: www.motorcyclistonline.com
+keywords:
+  - nc700x
+  - cb500x
+  - '2016'
+  - windscreen
+  - honda
+  - dct
+  - taillight
+  - taller
+  - rides
+  - riders
+description: 'Two more Honda X models returning for 2016 are the NC700X and CB500X, both with styling makeovers and other "important" updates, based on the short description provided to us. Based on the teaser images provided to us, the most obvious change are the taller windscreens on both models.'
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://www.motorcyclistonline.com/hondas-cb500x-and-nc700x-adv-adventure-bikes-for-2016-first-look-motorcyclist-magazine'
+title: "Honda's CB500X and NC700X ADV Adventure Bikes for 2016 | FIRST LOOK"
+datePublished: '2015-10-23T01:05:03.036Z'
+dateModified: '2015-10-23T01:04:36.703Z'
+sourcePath: _posts/2015-10-23-hondas-cb500x-and-nc700x-adv-adventure-bikes-for-2016-or-fir.md
+published: true
+inFeed: true
+hasPage: false
+inNav: false
+_context: 'http://schema.org'
+_type: MediaObject
+
+---
+<article style=""><h1>Honda's CB500X and NC700X ADV Adventure Bikes for 2016 &amp;vert; FIRST LOOK</h1><p>Two more Honda X models returning for 2016 are the NC700X and CB500X&amp;comma; both with styling makeovers and other "important" updates&amp;comma; based on the short description provided to us&amp;period; Based on the teaser images provided to us&amp;comma; the most obvious change are the taller windscreens on both models&amp;period;</p><img src="http://www.motorcyclistonline.com/sites/motorcyclistonline.com/files/styles/medium_1x_/public/images/2015/10/nc700x_tank.jpg?itok=e8B-eBoJ" /></article>
