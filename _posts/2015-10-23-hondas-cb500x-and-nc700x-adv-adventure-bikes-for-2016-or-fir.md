@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.motorcyclistonline.com/hondas-cb500x-and-nc700x-adv-adventure-bikes-for-2016-first-look-motorcyclist-magazine'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - nc700x
   - cb500x
@@ -17,8 +17,8 @@ keywords:
   - rides
   - riders
 description: 'Two more Honda X models returning for 2016 are the NC700X and CB500X, both with styling makeovers and other "important" updates, based on the short description provided to us. Based on the teaser images provided to us, the most obvious change are the taller windscreens on both models.'
-datePublished: '2015-10-23T01:09:49.750Z'
-dateModified: '2015-10-23T01:09:42.537Z'
+datePublished: '2015-10-23T01:10:37.207Z'
+dateModified: '2015-10-23T01:10:33.553Z'
 author: []
 related: []
 app_links: []
