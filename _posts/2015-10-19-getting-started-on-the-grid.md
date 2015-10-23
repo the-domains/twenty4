@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-10-19T02:11:05.898Z'
-dateModified: '2015-10-19T02:08:44.692Z'
+datePublished: '2015-10-23T01:07:40.105Z'
+dateModified: '2015-10-23T00:19:51.211Z'
 title: Getting Started on The Grid
 author: []
 sourcePath: _posts/2015-10-19-getting-started-on-the-grid.md
@@ -40,7 +40,7 @@ The name you choose during site creation will also be your domain (thegrid.ai/Si
 
 There are a few ways to add content to your sites.
 
-1. **Share from the web**. To add content from anywhere on the web, install The Grid Chrome extension via this link: http://thegr.id/1IRWuyn. Then simply right-click the content you want to share, and select the Grid icon with "share" next to it. It'll appear as a post on your drafts dashboard.
+1. **Share from the web**. To add content from anywhere on the web, install The Grid Chrome extension via this link: http://thegr.id/1IRWuyn. Then simply right-click the content you want to share, and [select the Grid icon with "share" next to it. It'll appear as a post on your dra][0]fts dashboard.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ace29033602f2d9baec3/file-B9ogQ0DNxU.gif)
 
 **Note**: Attempting to share from pages that require login (like Facebook), won't work - The Grid will only grab the content from the landing page/login page.
@@ -148,3 +148,5 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Email us at feedback@thegrid.io
 * Check out our Public Development Board for the latest info on known issues and planned features, and to submit ideas of your own: https://trello.com/b/DsYWip1U/the-grid-development- 
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
+
+[0]: null
